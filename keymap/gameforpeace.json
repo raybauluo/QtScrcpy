@@ -113,11 +113,11 @@
 			"switchMap": false
 		},
 		{
-			"comment": "趴着",
+			"comment": "放技能",
 			"type": "KMT_CLICK",
 			"key": "Key_C",
 			"pos": {
-				"x": 0.337034, "y": 0.901786
+				"x": 0.90801, "y": 0.358929
 			},
 			"switchMap": false
 		},
@@ -276,11 +276,11 @@
 			"switchMap": true
 		},
 		{
-			"comment": "开关门",
+			"comment": "二技能",
 			"type": "KMT_CLICK",
 			"key": "Key_X",
 			"pos": {
-				"x": 0.337034, "y": 0.901786
+				"x": 0.841396, "y": 0.380357
 			},
 			"switchMap": false
 		},
