@@ -319,8 +319,7 @@
 			"type": "KMT_CLICK",
 			"key": "RightButton",
 			"pos": {
-				"x": 0.96,
-				"y": 0.52
+				"x": 0.918552, "y": 0.572301
 			},
 			"switchMap": false
 		}
