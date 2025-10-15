@@ -117,7 +117,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_C",
 			"pos": {
-				"x": 0.89449, "y": 0.868074
+				"x": 0.337034, "y": 0.901786
 			},
 			"switchMap": false
 		},
@@ -192,7 +192,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_4",
 			"pos": {
-				"x": 0.38914, "y": 0.95112
+				"x": 0.337034, "y": 0.901786
 			},
 			"switchMap": false
 		},
@@ -280,8 +280,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_X",
 			"pos": {
-				"x": 0.7,
-				"y": 0.7
+				"x": 0.337034, "y": 0.901786
 			},
 			"switchMap": false
 		},
