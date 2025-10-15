@@ -69,8 +69,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_Space",
 			"pos": {
-				"x": 0.96,
-				"y": 0.7
+				"x": 0.910407, "y": 0.731161
 			},
 			"switchMap": false
 		},
@@ -109,8 +108,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_Z",
 			"pos": {
-				"x": 0.95,
-				"y": 0.9
+				"x": 0.821719, "y": 0.967413
 			},
 			"switchMap": false
 		},
@@ -119,8 +117,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_C",
 			"pos": {
-				"x": 0.86,
-				"y": 0.92
+				"x": 0.821719, "y": 0.967413
 			},
 			"switchMap": false
 		},
@@ -169,8 +166,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_1",
 			"pos": {
-				"x": 0.45,
-				"y": 0.9
+				"x": 0.433484, "y": 0.94704
 			},
 			"switchMap": false
 		},
@@ -179,8 +175,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_2",
 			"pos": {
-				"x": 0.55,
-				"y": 0.9
+				"x": 0.527602, "y": 0.953157
 			},
 			"switchMap": false
 		},
@@ -199,8 +194,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_4",
 			"pos": {
-				"x": 0.33,
-				"y": 0.95
+				"x": 0.38914, "y": 0.95112
 			},
 			"switchMap": false
 		},
@@ -309,8 +303,7 @@
 			"type": "KMT_CLICK",
 			"key": "LeftButton",
 			"pos": {
-				"x": 0.86,
-				"y": 0.72
+				"x": 0.824434, "y": 0.800407
 			},
 			"switchMap": false
 		},
