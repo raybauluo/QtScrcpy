@@ -180,12 +180,11 @@
 			"switchMap": false
 		},
 		{
-			"comment": "手雷",
+			"comment": "小刀",
 			"type": "KMT_CLICK",
 			"key": "Key_3",
 			"pos": {
-				"x": 0.67,
-				"y": 0.92
+			"x": 0.584994, "y": 0.91029
 			},
 			"switchMap": false
 		},
