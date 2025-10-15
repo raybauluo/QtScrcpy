@@ -126,8 +126,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_R",
 			"pos": {
-				"x": 0.795,
-				"y": 0.93
+				"x": 0.747948, "y": 0.810026
 			},
 			"switchMap": false
 		},
