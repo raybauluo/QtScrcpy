@@ -113,11 +113,11 @@
 			"switchMap": false
 		},
 		{
-			"comment": "蹲",
+			"comment": "趴着",
 			"type": "KMT_CLICK",
 			"key": "Key_C",
 			"pos": {
-				"x": 0.821719, "y": 0.967413
+				"x": 0.89449, "y": 0.868074
 			},
 			"switchMap": false
 		},
@@ -227,12 +227,11 @@
 			"switchMap": false
 		},
 		{
-			"comment": "车加速",
+			"comment": "蹲",
 			"type": "KMT_CLICK",
 			"key": "Key_Shift",
 			"pos": {
-				"x": 0.8,
-				"y": 0.8
+				"x": 0.821805, "y": 0.93139
 			},
 			"switchMap": false
 		},
