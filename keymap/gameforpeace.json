@@ -117,7 +117,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_C",
 			"pos": {
-				"x": 0.90801, "y": 0.358929
+				"x": 0.841396, "y": 0.380357
 			},
 			"switchMap": false
 		},
@@ -179,20 +179,20 @@
 			"switchMap": false
 		},
 		{
-			"comment": "小刀",
+			"comment": "快速打药",
 			"type": "KMT_CLICK",
 			"key": "Key_3",
 			"pos": {
-			"x": 0.584994, "y": 0.91029
+			    "x": 0.337034, "y": 0.901786
 			},
 			"switchMap": false
 		},
 		{
-			"comment": "快速打药",
+			"comment": "小刀",
 			"type": "KMT_CLICK",
 			"key": "Key_4",
 			"pos": {
-				"x": 0.337034, "y": 0.901786
+				"x": 0.584994, "y": 0.91029
 			},
 			"switchMap": false
 		},
@@ -280,7 +280,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_X",
 			"pos": {
-				"x": 0.841396, "y": 0.380357
+				"x": 0.90801, "y": 0.358929"
 			},
 			"switchMap": false
 		},
