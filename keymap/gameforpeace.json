@@ -51,9 +51,9 @@
 			"key": "Key_E",
 			"pos": {
 				"x": 0.648075, "y": 1.20177
-			}
+			},
+			"switchMap": false
 		},
-		"switchMap": false
 		{
 			"comment": "自动跑",
 			"type": "KMT_CLICK",
