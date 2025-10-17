@@ -46,12 +46,11 @@
 			}
 		},
 		{
-			"comment": "右探头",
+			"comment": "烟雾弹",
 			"type": "KMT_CLICK_TWICE",
 			"key": "Key_E",
 			"pos": {
-				"x": 0.2,
-				"y": 0.35
+				"x": 0.648075, "y": 1.20177
 			}
 		},
 		{
@@ -78,8 +77,7 @@
 			"type": "KMT_CLICK",
 			"key": "Key_M",
 			"pos": {
-				"x": 0.98,
-				"y": 0.03
+				"x": 0.139042, "y": 0.472566
 			},
 			"switchMap": true
 		},
