@@ -53,6 +53,7 @@
 				"x": 0.648075, "y": 1.20177
 			}
 		},
+		"switchMap": false
 		{
 			"comment": "自动跑",
 			"type": "KMT_CLICK",
@@ -79,7 +80,7 @@
 			"pos": {
 				"x": 0.139042, "y": 0.472566
 			},
-			"switchMap": true
+			"switchMap": false
 		},
 		{
 			"comment": "背包",
